@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+/********** Global **********/
+/*
+ *常用背景色： #0b0f34 (6,64,102) (29,45,57) (7,33,58) (8,13,28) (15,43,36)
+ */
+html,
+body {
+  width: 100%;
+  height: 100%;
+  min-height: 600px;
+  font-family: "microsoft yahei", arial, sans-serif;
+  background-color: #0f1c30;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  color: #ffffff;
+}
+body.bg01 {
+  background-image: url("../img/bg01.png");
+}
+body.bg02 {
+  background-image: url("../img/bg02.png");
+}
+body.bg03 {
+  background-image: url("../img/bg03.png");
+}
+body.bg04 {
+  background-image: url("../img/bg04.png");
+}
+.header {
+  margin: 0 auto;
+  width: 100%;
+  height: 60px;
+  /* max-width:100%; */
+  background: url("../img/header01.png") center no-repeat;
+}
+.header h3 {
+  margin: 0;
+  padding: 0;
+  line-height: 65px;
+  text-align: center;
+  font-size: 40px;
+  color: #5dc2fe;
+}
+/* tab标题 */
+.layui-tab-title {
+  color: #cddbdc;
+  width: 400px;
+  margin: 0 auto;
+}
+.layui-col-xs6 {
+  width: 50%;
+}
+.map-div,
+.list-con {
+  width: 100%;
+  height: 500px;
+}
+.list {
+  /* margin-left: 10px; */
+  margin: 0;
+  padding: 0;
+}
+.noise {
+  background-color: pink;
+}
+.noise > div {
+  float: left;
+  box-sizing: border-box;
+  width: 33.333%;
+  height: 180px;
+  /* border: 1px solid blue; */
+}
+
+.air > div {
+  float: left;
+  box-sizing: border-box;
+  width: 50%;
+  height: 170px;
+  /* border: 1px solid blue; */
+}
+.chart{
+  /* background-color: blueviolet; */
+  /* border: 1px solid blue; */
+  width: 100%;
+  height: 100%;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {width:0;height:0;}
+::-webkit-scrollbar-track {background-color:transparent;}
+::-webkit-scrollbar-thumb {border-radius:5px;background-color:rgba(0, 0, 0, 0.3);}
+
+/* media query */
+@media (max-width:1900px) {
+	#header {height:48px;}
+	.header-title {line-height:42px;font-size:24px;}
+	.header-info {top:17px;font-size:14px;}
+	.header-info-l {left:15px;}
+	.header-info-r {right:15px;}
+	.flex-cell {padding:10px;}
+	.chart-title {height:24px;font-size:18px;}
+	.chart-div {top:24px;}
+	.data-t p span {font-size:24px;}
+	#footer {height:16px;}
+	#container {top:48px;bottom:12px;}
+}
+
+
+.layui-table-box{
+  margin: 0;
+  padding: 0;
+}

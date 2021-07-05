@@ -1,0 +1,55 @@
+		<!-- <table class="layui-table list" lay-even="" lay-skin="row">
+									<colgroup>
+										<col width="90">
+										<col width="180">
+										<col width="120">
+										<col width="120">
+										<col width="120">
+										<col width="120">
+										<col>
+									</colgroup>
+									<thead>
+										<tr>
+											<th>点位</th>
+											<th>监测时间</th>
+											<th>水样类型</th>
+											<th>水位</th>
+											<th>pH</th>
+											<th>矿化度</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>D01</td>
+											<td>1989-10-14</td>
+											<td>承压水</td>
+											<td>956</td>
+											<td>8.6</td>
+											<td>638.44</td>
+										</tr>
+										<tr>
+											<td>D01</td>
+											<td>1989-10-14</td>
+											<td>承压水</td>
+											<td>956</td>
+											<td>8.6</td>
+											<td>638.44</td>
+										</tr>
+										<tr>
+											<td>D01</td>
+											<td>1989-10-14</td>
+											<td>承压水</td>
+											<td>956</td>
+											<td>8.6</td>
+											<td>638.44</td>
+										</tr>
+										<tr>
+											<td>D01</td>
+											<td>1989-10-14</td>
+											<td>承压水</td>
+											<td>956</td>
+											<td>8.6</td>
+											<td>638.44</td>
+										</tr>
+									</tbody>
+								</table> -->

@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport"
+		content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+	<title>11地图数据可视化</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" href="css/app.css" />
+	<link rel="stylesheet" href="ol/ol.css" type="text/css">
+	<link rel="stylesheet" href="css/styles.css" type="text/css">
+</head>
+
+<body class="bg01" style="height:100%">
+	<header class="header">
+		<h3>地图数据可视化</h3>
+	</header>
+	<div class="wrapper">
+		<div class="row fill-h">
+			<div class="col-lg-3 fill-h">
+				<div class="xpanel-wrapper xpanel-wrapper-4">
+					<div class="xpanel">
+						<!-- chart01 -->
+						<div class="fill-h" id="chart01">
+							11
+						</div>
+					</div>
+				</div>
+				<div class="xpanel-wrapper xpanel-wrapper-4">
+					<div class="xpanel">
+						<!-- chart02 -->
+						<div class="fill-h" id="chart02">
+							<h4 class="chart-title">统计数据</h4>
+							<div class="chart-wrapper">
+								<table class="data-t">
+									<tr>
+										<th><img src="img/icon-01.png" /></th>
+										<td>
+											<p><span id="listedCompany">0</span></p>
+											<p>上市公司数</p>
+										</td>
+										<th><img src="img/icon-02.png" /></th>
+										<td>
+											<p><span id="listedSecurity">0</span></p>
+											<p>上市证券数</p>
+										</td>
+									</tr>
+									<tr>
+										<th><img src="img/icon-03.png" /></th>
+										<td>
+											<p><span id="totalMarket">0</span></p>
+											<p>股票总市值（亿元）</p>
+										</td>
+										<th><img src="img/icon-04.png" /></th>
+										<td>
+											<p><span id="circulationMarket">0</span></p>
+											<p>股票流通市值（亿元）</p>
+										</td>
+									</tr>
+									<!-- <tr>
+												<th><img src="img/icon-05.png" /></th>
+												<td>
+													<p><span id="shRatio">0</span></p>
+													<p>上市平均市盈率</p>
+												</td>
+												<th><img src="img/icon-06.png" /></th>
+												<td>
+													<p><span id="szRatio">0</span></p>
+													<p>深市平均市盈率</p>
+												</td>
+											</tr> -->
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="xpanel-wrapper xpanel-wrapper-4">
+					<div class="xpanel">
+						<!-- chart02 -->
+						<div class="fill-h" id="chart03">
+							2
+							<!-- <iframe src="55.html?lat=1318920722323.3445&lon=3438773.456724345" style="border:none;width:100%;height:100%" /> -->
+						</div>
+					</div>
+				</div>
+				<div class="xpanel-wrapper xpanel-wrapper-4">
+					<div class="xpanel">
+						<!-- chart02 -->
+						<div class="fill-h" id="chart04">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 fill-h">
+				<div class="xpanel-wrapper xpanel-wrapper-2">
+					<div class="xpanel">
+						<!-- chart03 -->
+						<div class="fill-h" id="chart05">
+						</div>
+					</div>
+				</div>
+				<div class="xpanel-wrapper xpanel-wrapper-2">
+					<div class="xpanel">
+						<!-- chart04 -->
+						<div class="fill-h" id="chart06">
+							<!-- <div class="btndiv">
+								<ul>
+									<li><a href="javascript:;" data-id="1" data-title="重庆西站"
+											data-url=55.html?lat=1318920722323.3445&lon=3438773.456724345"
+											class="site-demo-active" data-type="tabAdd">重庆西站</a>
+									</li>
+									<li><a href="javascript:;" data-id="2" data-title="班公湖"
+											data-url=55.html?lat=1318920666401.8503&lon=3419705.3890327024"
+											class="site-demo-active" data-type="tabAdd">班公湖</a></li>
+									<li> <a href="javascript:;" data-id="3" data-title="亚特兰蒂斯遗址"
+											data-url=55.html?lat=55555.5555555555&lon=66666.66666666666666"
+											class="site-demo-active" data-type="tabAdd">亚特兰蒂斯遗址</a></li>
+								</ul>
+							</div> -->
+							<div class="mapdiv">
+								<div id="map" class="map"></div>
+								<div class="overlay-container">
+									<span class='overlay-text' id='feature-name'></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 fill-h">
+				<div class="xpanel-wrapper xpanel-wrapper-3">
+					<div class="xpanel">
+						<!-- chart05 -->
+						<div class="fill-h" id="chart07">
+							77
+						</div>
+					</div>
+				</div>
+				<div class="xpanel-wrapper xpanel-wrapper-3">
+					<div class="xpanel">
+						<!-- chart08 -->
+						<h4 class="chart-title">饼图</h4>
+						<div class="fill-h2" id="chart08">
+						</div>
+					</div>
+				</div>
+				<div class="xpanel-wrapper xpanel-wrapper-3">
+					<div class="xpanel">
+						<!-- chart09 -->
+						<div class="fill-h" id="chart09">99</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/countUp.min.js"></script>
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="js/echarts-3.8.5.min.js"></script>
+	<script src="js/proj_js/06.js"></script>
+		<!-- gismap -->
+		<script src="ol/ol.js"></script>
+	<!-- <script type="text/javascript" src="js/main1.js"></script> -->
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+
+	<!-- map -->
+	<script type="text/javascript" src="js/echarts-map-world.js"></script>
+	<script type="text/javascript" src="js/echarts-map-china.js"></script>
+	<script type="text/javascript" src="js/echarts-china-provinces/jiangsu.js"></script>
+	<script type="text/javascript" src="js/echarts-china-cities/jiang1_su1_su1_zhou1.js"></script>
+	<script type="text/javascript" src="js/echarts-china-counties/jiang1su1_su1zhou1_kun1shan1shi4.js"></script>
+	<script type="text/javascript">
+		$(function () {
+			// 03获取排行数据
+			const rankChart = echarts.init(document.getElementById("chart03"), "shine");
+			const rankChartOpt = {
+				tooltip: {
+					trigger: "axis",
+					axisPointer: {
+						type: "shadow"
+					},
+					formatter: function (params) {
+						const param = params[0];
+						const marker = '<span style="display:inline-block;margin-right:5px;border-radius:10px;width:10px;height:10px;background-color:#e6b600;"></span>';
+						const suffix = '<span style="margin-left:5px;font-size:12px;">亿元</span>';
+						return param.name + "<br />" +
+							marker + "排名：" + (param.dataIndex + 1) + "<br />" +
+							marker + "市价总值：" + param.value + suffix;
+					}
+				},
+				grid: {
+					top: 10,
+					bottom: 10,
+					left: 60,
+					width:200,
+					height:200
+				},
+				xAxis: {
+					show: false,
+					type: "value"
+				},
+				yAxis: {
+					type: "category",
+					inverse: true,
+					axisLine: { show: false },
+					axisTick: { show: false },
+					axisLabel: {
+						fontSize: 12,
+						color: "#b0c2f9"
+					}
+				},
+				series: [{
+					name: "市价总值排行",
+					type: "bar",
+					barCategoryGap: "60%",
+					label: {
+						show: true,
+						position: "right",
+						fontSize: 12,
+						color: "#188df0",
+						emphasis: {
+							color: "#e6b600"
+						}
+					},
+					itemStyle: {
+						normal: {
+							color: new echarts.graphic.LinearGradient(
+								0, 1, 1, 1,
+								[
+									{ offset: 0, color: '#b0c2f9' },
+									{ offset: 0.5, color: '#188df0' },
+									{ offset: 1, color: '#185bff' }
+								]
+							)
+						},
+						emphasis: {
+							color: new echarts.graphic.LinearGradient(
+								0, 1, 1, 1,
+								[
+									{ offset: 0, color: '#b0c2f9' },
+									{ offset: 0.7, color: '#e6b600' },
+									{ offset: 1, color: '#ceac09' }
+								]
+							)
+						}
+					}
+				}]
+			};
+			rankChart.setOption(rankChartOpt) ;
+			$.ajax({
+				url: "data/ranking-list.json",//ranking-list
+				dataType: "json"
+			}).done(function () {
+				$("#rankChart").addClass("chart-done");
+			}).done(function (data) {
+				//console.log('Data: ', data);
+				const xData = [];
+				const yData = [];
+				for (let i in data) {
+					xData.push(data[i].market_capitalization);
+					yData.push(data[i].stock_name);
+				}
+				rankChart.setOption({
+					yAxis: {
+						data: yData
+					},
+					series: [{
+						name: "市价总值排行",
+						data: xData
+					}]
+				});
+			}).fail(function (jqXHR) {
+				console.log("Ajax Fail: ", jqXHR.status, jqXHR.statusText);
+			});
+			//04获取排行数据
+			const dBChart = echarts.init(document.getElementById("chart04"));
+			//05地图获取地域分布数据
+			const mapChart = echarts.init(document.getElementById("chart05"), "shine");
+			const mapChartOpt = {
+				tooltip: {
+					formatter: function (params) {
+						const data = params.data;
+						return data.name + "<br />上市公司数：" + data.value;
+					}
+				},
+				grid: {
+					top: 10,
+					bottom: 10,
+					left: 60,
+					width:200,
+					height:200
+				},
+				visualMap: {
+					type: "piecewise",
+					splitNumber: 6,
+					itemWidth: 10,
+					itemHeight: 10,
+					itemGap: 5,
+					textGap: 5,
+					textStyle: {
+						fontSize: 10,
+						color: "#b0c2f9"
+					},
+					min: 0,
+					max: 600,
+					calculable: true,
+					seriesIndex: [0]
+				},
+				geo: {
+					map: "china",
+					roam: true, //开启鼠标缩放和漫游
+					zoom: 1, //地图缩放级别
+					selectedMode: "single",
+					top: 10,
+					bottom: 10,
+					layoutCenter: ["50%", "50%"],
+					//layoutSize: "100%", //保持地图宽高比
+					label: {
+						show: true,
+						fontSize: 10,
+						color: "#ceac09"
+					}
+				},
+				series: [{
+					name: "地域分布",
+					type: "map",
+					geoIndex: 0
+				}]
+			};
+			mapChart.setOption(mapChartOpt);
+			$.ajax({
+				url: "data/region-count.json",
+				dataType: "json"
+			}).done(function () {
+				$("#mapChart").addClass("chart-done");
+			}).done(function (data) {
+				//console.log('Data: ', data);
+				const chartData = [];
+				for (let i in data) {
+					chartData.push({
+						name: data[i].region,
+						value: data[i].count
+					});
+				}
+				mapChart.setOption({
+					series: [{
+						name: "地域分布",
+						data: chartData
+					}]
+				});
+			}).fail(function (jqXHR) {
+				console.log("Ajax Fail: ", jqXHR.status, jqXHR.statusText);
+			});
+			// 08 pie
+			const pieChart = echarts.init(document.getElementById("chart08"));
+			var app = {};
+			var pieOpt;
+			pieOpt = {
+				textStyle: {
+					fontSize: 14,
+					color: "#FFFFFF"
+				},
+				tooltip: {
+					trigger: 'item'
+				},
+				legend: {
+					top: '5%',
+					left: 'center',
+					textStyle: {
+					fontSize: 14,
+					color: "#FFFFFF"
+				},
+				},
+				series: [
+					{
+						name: '访问来源',
+						type: 'pie',
+						radius: ['40%', '70%'],
+						avoidLabelOverlap: false,
+						label: {
+							show: false,
+							position: 'center'
+						},
+						emphasis: {
+							label: {
+								show: true,
+								fontSize: '24',
+								fontWeight: 'bold'
+							}
+						},
+						labelLine: {
+							show: false
+						},
+						data: [
+							{ value: 1048, name: '搜索引擎' },
+							{ value: 735, name: '直接访问' },
+							{ value: 580, name: '邮件营销' },
+							{ value: 484, name: '联盟广告' },
+							{ value: 300, name: '视频广告' }
+						]
+					}
+				]
+			};
+
+			if (pieOpt && typeof pieOpt === 'object') {
+				pieChart.setOption(pieOpt);
+			}
+
+			// 00000000000000000000000
+			/********** 浏览器窗口改变时，重置报表大小 ****************/
+			window.onresize = function () {
+				// flyMap.resize();
+				// scatterMap.resize();
+				// worldMap.resize();
+				// provinceMap.resize();
+				// cityMap.resize();
+				// countyMap.resize();
+				rankChart.resize();
+				pieChart.resize();
+				mapChart.resize();
+				dBChart.resize();
+				// loverlayContainerElm.resize();
+			}
+		});
+		//数字变化特效
+		function rollNum(elId, startVal, endVal, decimalNum) {
+			let n = decimalNum || 0;
+			let countUp = new CountUp(elId, startVal, endVal, n, 2.5, {
+				useEasing: true,
+				useGrouping: true,
+				separator: ',',
+				decimal: '.'
+			});
+			if (!countUp.error) {
+				countUp.start();
+			} else {
+				console.error(countUp.error);
+			}
+		}
+			// const key="lM6kpvAJmxiT8hO5bY1McR7F6uobWvk7Q6KXSb/tzWkDPgv/FZPPOxQjCdbXXtnktT3mx/g+NcL1Rn/WBG5x9Epur8cHIOUqcxIFUAfwH7M5gDMwawpA2QFLunxEKxmkntlDub1/WQx+b1gr4MgVmqxXEDveQOIeof5+trvqSYQ=;
+			// $.ajax({
+			// 	url:"http://47.94.160.172:8080/inner/login",
+			// 	type:'post',
+			// 	dataType:'json',
+			// 	contentType:"application/json",
+			// 	data:JSON.stringify('{lM6kpvAJmxiT8hO5bY1McR7F6uobWvk7Q6KXSb/tzWkDPgv/FZPPOxQjCdbXXtnktT3mx/g+NcL1Rn/WBG5x9Epur8cHIOUqcxIFUAfwH7M5gDMwawpA2QFLunxEKxmkntlDub1/WQx+b1gr4MgVmqxXEDveQOIeof5+trvqSYQ=}'),
+			// 	async:false,
+			// 	success:function(result){
+			// 		// successfn(res);
+			// 		console.log(result);
+			// 	}
+			// })
+	</script>
+</body>
+
+</html>

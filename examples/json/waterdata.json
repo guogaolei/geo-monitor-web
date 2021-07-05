@@ -1,0 +1,23 @@
+{
+    "code": 0,
+    "msg": "",
+    "count": 1000,
+    "data": [
+        {
+            "id": "D01",
+            "waterTime": "2021-06-28",
+            "waterType": "承压水",
+            "waterLevel": 956,
+            "waterPh": 8.6,
+            "waterKValue": 638.55
+        },
+        {
+            "id": "D02",
+            "waterTime": "2021-06-28",
+            "waterType": "承压水",
+            "waterLevel": 999,
+            "waterPh": 8.6,
+            "waterKValue": 777.55
+        }
+    ]
+}
