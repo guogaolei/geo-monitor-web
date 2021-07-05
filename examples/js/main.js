@@ -224,7 +224,8 @@ function mapinit()
 
   if(instance == null){
      init();
+     instance =1;
   }
-  instance =1;
+
  
 }

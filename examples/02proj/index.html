@@ -3,6 +3,26 @@
 <html lang="zh-CN">
 
 <head>
+
+	<style type="text/css"> 
+      #map {
+	        width: 48%;
+	        height: 66%;
+
+
+         
+          padding-top: 71px;
+          padding-left: 10px;
+          padding-bottom: 4px;
+          padding-right: 10px;
+      
+          color: white;
+          position: absolute;
+      }
+
+</style>
+
+
 	<meta charset="utf-8" />
 	<meta name="viewport"
 		content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
@@ -12,7 +32,7 @@
 	<link rel="stylesheet" href="../../src/css/layui.css">
 	<link rel="stylesheet" href="css/app.css" />
 	<link rel="stylesheet" href="ol/ol.css" type="text/css">
-	<link rel="stylesheet" href="css/styles.css" type="text/css">
+	<link rel="stylesheet" href="../css/styles.css" type="text/css">
 	<script src="ol/ol.js"></script>
 </head>
 
@@ -20,6 +40,26 @@
 	<header class="header">
 		<h3>地图数据可视化</h3>
 	</header>
+
+
+	<div id="map" class="map2  ">
+	<!-- 地图 --> 
+
+		<form  id= "ControlLayerSwitcher" class="layui-form layui-form-pane1" action="" lay-filter="first">
+	          <input id="slider2" type="checkbox" name="zzz2" lay-skin="switch"  checked="checked"   lay-text="遥感地图|遥感地图">
+	          </div>
+	    </form>
+
+	    <div class="overlay-container">
+	       <span class= 'overlay-text' id='feature-name'> </span>
+	    </div>
+
+
+
+	</div>
+
+
+
 	<div class="layui-tab layui-tab-brief" lay-filter="docDemoTabBrief">
 		<ul class="layui-tab-title">
 			<li class="layui-this">地下水监测</li>
@@ -30,18 +70,14 @@
 		<div class="layui-tab-content" style="height: 100px;">
 			<div class="layui-tab-item layui-show">
 				<div class="layui-row main">
-					<div class="layui-col-xs6" style="background:black">
+					<div class="layui-col-xs6"  >
 
 						<div class="grid-demo grid-demo-bg1">
 								 
-
-								<div id="map" class="map2 map-div">
-									<!-- 地图 -->
-
-
+								<div class="map-div">
 								 
-							 
-							</div>
+
+								</div>
 						</div>
 					</div>
 					<div class="layui-col-xs6">
@@ -58,7 +94,7 @@
 					<div class="layui-col-xs6">
 						<div class="grid-demo grid-demo-bg1">
 							<div class="map-div">
-								<div id="map" class="map2"></div>
+							 
 						 
 							</div>
 						</div>
@@ -89,10 +125,7 @@
 					<div class="layui-col-xs6">
 						<div class="grid-demo grid-demo-bg1">
 							<div class="map-div">
-								<div id="map" class="map2"></div>
-								<div class="overlay-container">
-									<span class='overlay-text' id='feature-name'></span>
-								</div>
+						 
 							</div>
 						</div>
 					</div>
@@ -461,9 +494,15 @@
 
 	</script>
 	<script>
-		layui.use('element', function () {
+		layui.use(['form', 'element'], function () {
 			var $ = layui.jquery, element = layui.element; //Tab的切换功能，切换事件监听等，需要依赖element模块
+		    var form = layui.form 
  		    console.log('layui.use(element' )
+
+ 		    form.on('switch', function(data){
+              switchMap(this.checked);
+            }); 	
+
 		});
 	</script>
 	<script>
