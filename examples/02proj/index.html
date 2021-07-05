@@ -13,6 +13,7 @@
 	<link rel="stylesheet" href="css/app.css" />
 	<link rel="stylesheet" href="ol/ol.css" type="text/css">
 	<link rel="stylesheet" href="css/styles.css" type="text/css">
+	<script src="ol/ol.js"></script>
 </head>
 
 <body class="bg01" style="height:100%">
@@ -29,13 +30,17 @@
 		<div class="layui-tab-content" style="height: 100px;">
 			<div class="layui-tab-item layui-show">
 				<div class="layui-row main">
-					<div class="layui-col-xs6">
+					<div class="layui-col-xs6" style="background:black">
+
 						<div class="grid-demo grid-demo-bg1">
-								<div class="map-div">
-								<div id="map" class="map2"></div>
-								<div class="overlay-container">
-									<span class='overlay-text' id='feature-name'></span>
-								</div>
+								 
+
+								<div id="map" class="map2 map-div">
+									<!-- 地图 -->
+
+
+								 
+							 
 							</div>
 						</div>
 					</div>
@@ -54,9 +59,7 @@
 						<div class="grid-demo grid-demo-bg1">
 							<div class="map-div">
 								<div id="map" class="map2"></div>
-								 <div class="overlay-container">
-									<span class='overlay-text' id='feature-name'></span>
-								</div>
+						 
 							</div>
 						</div>
 					</div>
@@ -128,13 +131,19 @@
 	<!-- <script type="text/javascript" src="js/echarts-3.8.5.min.js"></script> -->
 	<script type="text/javascript" src="../../src/layui.js"></script>
 	<!-- <script src="js/06.js"></script> -->
-	<script src="js/main1.js"></script>
+	
+    
+
+
 	<!-- gismap -->
-	<script src="ol/ol.js"></script>
+	
+	 <script src="../js/main.js"></script>
 	<!-- map -->
 	<script>
 		layui.use('table', function () {
 			var table = layui.table;
+
+			console.log('layui.use table')
 			table.render({
 				elem: '#list-con',
 				url: 'http://127.0.0.1:8080/examples/json/waterdata.json',
@@ -148,6 +157,8 @@
 					, { field: 'waterKValue', title: '矿化度', sort: true, align: 'right' } //单元格内容水平居右
 				]]
 			});
+
+
 		});
 	</script>
 	<script type="text/javascript">
@@ -411,13 +422,15 @@
 
 			/********** 浏览器窗口改变时，重置报表大小 ****************/
 			var f = function () {
-				myNChart01.resize();
-				myNChart02.resize();
-				myNChart03.resize();
-				myNChart04.resize();
-				myNChart05.resize();
-				airChart.resize();
-				console.log(3);
+				// myNChart01.resize();
+				// myNChart02.resize();
+				// myNChart03.resize();
+				// myNChart04.resize();
+				// myNChart05.resize();
+				// airChart.resize();
+				console.log('mapinit_init')
+				mapinit();
+				 
 			}
 			window.onload = f;
 			window.onresize = f;
@@ -450,42 +463,7 @@
 	<script>
 		layui.use('element', function () {
 			var $ = layui.jquery, element = layui.element; //Tab的切换功能，切换事件监听等，需要依赖element模块
-
-			//触发事件
-			var active = {
-				tabAdd: function () {
-					//新增一个Tab项
-					element.tabAdd('demo', {
-						title: '新选项' + (Math.random() * 1000 | 0) //用于演示
-						, content: '内容' + (Math.random() * 1000 | 0)
-						, id: new Date().getTime() //实际使用一般是规定好的id，这里以时间戳模拟下
-					})
-				}
-				, tabDelete: function (othis) {
-					//删除指定Tab项
-					element.tabDelete('demo', '44'); //删除：“商品管理”
-					othis.addClass('layui-btn-disabled');
-				}
-				, tabChange: function () {
-					//切换到指定Tab项
-					element.tabChange('demo', '22'); //切换到：用户管理
-				}
-			};
-
-			$('.layui-tab-title>li').on('click', function () {
-				var othis = $(this), type = othis.data('type');
-				active[type] ? active[type].call(this, othis) : '';
-
-			});
-
-			//Hash地址的定位
-			var layid = location.hash.replace(/^#test=/, '');
-			element.tabChange('test', layid);
-
-			element.on('tab(test)', function (elem) {
-				location.hash = 'test=' + $(this).attr('lay-id');
-			});
-
+ 		    console.log('layui.use(element' )
 		});
 	</script>
 	<script>

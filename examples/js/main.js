@@ -194,13 +194,10 @@ function init(){
      map.forEachFeatureAtPixel(e.pixel,function(feature,layer){
       let corrdinate = e.coordinate;
        
- 
-
-
-      console.log("ccccccccccc- aa");
-      let clickFeatureName=feature.get('name');
+      let clickFeatureName=feature.get('description');
       console.log(feature,clickFeatureName);
       overyLayer.setPosition(corrdinate);
+
       overlayName.innerHTML=clickFeatureName;
      }),
      {
@@ -212,9 +209,22 @@ function init(){
   })
 }
     
- function someFunction(val) {
+ function switchMap(val) {
     // do.something;
     var lys =  baseLayerGroup.getLayers() ;
     lys.item(1).setVisible(val);
-    console.log('aaaaaaaaaaa',baseLayerGroup)
+    
+}
+ 
+var instance;
+function mapinit()
+{
+  console.log('mapinit',instance)
+ 
+
+  if(instance == null){
+     init();
+  }
+  instance =1;
+ 
 }

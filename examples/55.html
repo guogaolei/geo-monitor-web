@@ -2,32 +2,7 @@
 <html lang="en">
   <head>
 
-<style type="text/css">
- 
- 
-#ControlLayerSwitcher  {
-    top: 50px; 
-    right: 10px; 
-    padding-top: 5px;
-    padding-left: 10px;
-    padding-bottom: 5px;
-    padding-right: 10px;
- 
-
-    position: absolute;
-}
-
-.olControlLayerSwitcher {
-    
-    font-family: sans-serif;
-    font-weight: bold;
-    margin-top: 3px;
-    margin-left: 3px;
-    margin-bottom: 3px;
-    font-size: smaller;
-    color: white;
-   
-}
+<style type="text/css"> 
 
 </style>
 
@@ -42,24 +17,18 @@
   <body>
     <div id="map" class="map2"></div>
    <!--   <input id="slider" type="range" min="0" max="5" step="1" value="5"  > -->
-
-
     <form  id= "ControlLayerSwitcher" class="layui-form layui-form-pane1" action="" lay-filter="first">
- 
-
-          <div class="olControlLayerSwitcher ">
           <input id="slider2" type="checkbox" name="zzz2" lay-skin="switch"  checked="checked"   lay-text="遥感地图|遥感地图">
-          
           </div>
- 
     </form>
-
-
 
     <div class="overlay-container">
        <span class= 'overlay-text' id='feature-name'> </span>
     </div>
+
+
      <script src="js/main.js"></script>
+     
      <script src="../src/layui.js"></script>
      <script type="text/javascript">
        
@@ -73,8 +42,7 @@
             // });
             
             form.on('switch', function(data){
-           
-              someFunction(this.checked);
+              switchMap(this.checked);
             }); 
         
             
