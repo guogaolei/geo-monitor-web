@@ -58,7 +58,7 @@ function init(){
   //  extent: mapExtent,
     source: new ol.source.XYZ({
       attributions: 'Rendered with <a href="https://www.maptiler.com/desktop/">MapTiler Desktop</a>',
-      url: "http://192.168.1.12:8080/examples/tiler/{z}/{x}/{y}.png",
+      url: "tiler/{z}/{x}/{y}.png",
       // http://192.168.43.32:8080/examples/admin.html
       tilePixelRatio: 1.00000000,
       minZoom: mapMinZoom,
