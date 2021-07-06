@@ -453,7 +453,7 @@
 			}
 
 
-			/********** 浏览器窗口改变时，重置报表大小 ****************/
+			/********** 浏览器窗口改变时，重置报表大小 .****************/
 			var f = function () {
 				// myNChart01.resize();
 				// myNChart02.resize();
@@ -502,6 +502,33 @@
  		    form.on('switch', function(data){
               switchMap(this.checked);
             }); 	
+
+			element.on('tab(docDemoTabBrief)', function(data){
+					console.log('tab(docDemoTabBrief',data.index)
+
+					if(data.index == 0)
+					{
+ 
+						// df
+								var table = layui.table;
+
+								console.log('layui.use table2')
+								table.render({
+									elem: '#list-con',
+									url: '/examples/json/waterdata.json',
+									cellMinWidth: 80, //全局定义常规单元格的最小宽度，layui 2.2.1 新增
+									cols: [[
+										{ field: 'id', title: '点位', sort: true }
+										, { field: 'waterTime', title: '监测时间' } //width 支持：数字、百分比和不填写。你还可以通过 minWidth 参数局部定义当前单元格的最小宽度，layui 2.2.1 新增
+										, { field: 'waterType', title: '水样类型' }
+										, { field: 'waterLevel', title: '水位', align: 'center' }
+										, { field: 'waterPh', title: 'pH', align: 'center' } //单元格内容水平居中
+										, { field: 'waterKValue', title: '矿化度', sort: true, align: 'right' } //单元格内容水平居右
+									]]
+								}); 
+					//
+					}
+			});
 
 		});
 	</script>
