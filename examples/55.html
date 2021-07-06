@@ -1,20 +1,61 @@
 <!doctype html>
 <html lang="en">
   <head>
+
+<style type="text/css"> 
+      #map {
+        width: 100vw;
+        height: 88vh;
+      }
+
+</style>
+
     <link rel="stylesheet" href="ol/ol.css" type="text/css">
+     <link rel="stylesheet" href="../src/css/layui.css">
       <script src="ol/ol.js"></script>
     <link rel="stylesheet" href="css/styles.css" type="text/css">
 <!-- 1    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script> -->
-<!--     http://geojson.io/ -->
+<!--     http://geojson.io2/ -->
     <title>OpenLayers example</title>
   </head>
   <body>
     <div id="map" class="map2"></div>
+   <!--   <input id="slider" type="range" min="0" max="5" step="1" value="5"  > -->
+    <form  id= "ControlLayerSwitcher" class="layui-form layui-form-pane1" action="" lay-filter="first">
+          <input id="slider2" type="checkbox" name="zzz2" lay-skin="switch"  checked="checked"   lay-text="遥感地图|遥感地图">
+          </div>
+    </form>
+
     <div class="overlay-container">
        <span class= 'overlay-text' id='feature-name'> </span>
     </div>
-     <script src="js/main1.js"></script>
-    <script type="text/javascript">
+
+
+     <script src="js/main.js"></script>
+     
+     <script src="../src/layui.js"></script>
+     <script type="text/javascript">
+       
+ 
+
+          layui.use(['form', 'layedit', 'laydate'], function(){
+         
+            var form = layui.form 
+            // form.on('checkbox', function(data){
+            //   console.log(this.checked, data.elem.checked);
+            // });
+            
+            form.on('switch', function(data){
+              switchMap(this.checked);
+            }); 
+        
+            
+          });
+
+ 
+
+
     </script>
+
   </body>
 </html>
