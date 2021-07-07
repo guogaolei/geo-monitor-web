@@ -120,11 +120,11 @@ function init(){
   });
   
  const fillstyle = new ol.style.Fill({
-  color:[84,118,255,0.4]
+  color:[125,125,125,0.5]
  }) 
 
  const strokestyle =  new ol.style.Stroke({
-  color:[45,45,45,1],
+  color:[85,85,85,1],
   width:1.2
  })
 
@@ -190,10 +190,10 @@ function init(){
             var customIcionstyle = iconStyle;
             if (geotype == 'Point' && markercolor != undefined)
             {
-                  customIcionstyle = new ol.style.Icon({  scale: 0.9, color:markercolor, opacity:1, src: 'ol/icon.png' });  //opacity: 0.5,
+                  customIcionstyle = new ol.style.Icon({  scale: 0.7, color:markercolor, opacity:1, src: 'ol/icon.png' });  //opacity: 0.5,
             }
           
-            return [new ol.style.Style({
+               return [new ol.style.Style({
                       fill:customFillstyle,
                       stroke:customtrokeStyle,
                        image:customIcionstyle  //circlestyle iconStyle
