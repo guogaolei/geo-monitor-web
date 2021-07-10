@@ -2,6 +2,11 @@
 window.onload=init;
 
   
+ 
+
+
+
+
 function getQueryVariable(variable)
 {
        var query = window.location.search.substring(1);
@@ -156,7 +161,7 @@ function init(){
      title:'GeoJson',
      style: function (feature) {
            
-              var stroke =  feature.get('stroke');
+              var stroke =  feature.get('stroke');  
               var strokeW = feature.get('stroke-width');
               var strokeopacity = feature.get('stroke-opacity');
               var fillhexColor  = feature.get('fill');
@@ -169,7 +174,7 @@ function init(){
                   stroke = stroke.slice();
                   stroke[3] =strokeopacity;  // change the alpha of the color
                    customtrokeStyle = new ol.style.Stroke({
-                       color:stroke,
+                       color:stroke, 
                        width:strokeW
                   })  
              }
@@ -233,8 +238,8 @@ function init(){
 
   var highlight;
   var displayFeatureInfo = function (pixel) {
-
-    baseLayerGroup.getLayers().item(2).getFeatures(pixel)
+//str1
+    baseLayerGroup.getLayers().item(3).getFeatures(pixel)
       .then(function (features) {
         var feature = features.length > 0 ? features[0] : undefined;
 
@@ -270,7 +275,7 @@ function init(){
 
     var start = new Date().getTime();
 
-    var listenerKey = baseLayerGroup.getLayers().item(1).on('postrender', animate); //overyLayer  
+  // var listenerKey = baseLayerGroup.getLayers().item(1).on('postrender', animate); //overyLayer str1  
 
     function animate(event) {
 
@@ -316,7 +321,10 @@ function init(){
 
   map.on('click',function(e){
      console.log(e.coordinate);
-         x = ol.proj.fromLonLat([109.864879, 39.151586]);
+
+
+
+      x = ol.proj.fromLonLat([109.864879, 39.151586]);
   
   
       y = ol.proj.transform(e.coordinate,'EPSG:3857', 'EPSG:4326'  );
