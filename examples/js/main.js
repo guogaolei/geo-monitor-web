@@ -1,11 +1,6 @@
 
 window.onload=init;
 
-  
- 
-
-
-
 
 function getQueryVariable(variable)
 {
@@ -53,9 +48,7 @@ function init(){
   var lat = getQueryVariable("lat");
   var lon =getQueryVariable("lon");
   console.log(lat+" "+lon);
-
-
-
+ 
     var map = new ol.Map({
   
         target: 'map',
