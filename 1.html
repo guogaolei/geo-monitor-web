@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+            
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+	<script type="text/javascript" 
+            src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+    </script>
+
+</head>
+<body>
+	<h1> jQuery1 get() method demo 
+	</h1>
+	<input type="button" id="ajaxBtn" value="Send GET request" />
+	<p>
+		<input type="button" id="ajaxBtn2" value="Send GET request" />
+	</p>
+	<p>
+		<form action="http://localhost:8080/upload/" enctype="multipart/form-data" method="POST"> 
+		<input type="file" name="file" accept="*" />
+		<button type="submit">submit </button>
+		</form>
+	</p>
+</body>
+
+	<script type="text/javascript">
+        $(document).ready(function () {
+			
+		 $('#ajaxBtn').click(function(){
+			
+				 $.ajax({
+				    type: 'POST',
+				 
+				    dataType: "json",  // from the server   
+				    contentType: "application/json; charset=utf-8", // to the server
+				    url: "http://127.0.0.1:8090/login",
+					xhrFields: {
+					withCredentials: true
+					},
+
+				   success: function(data){
+				          console.log(data);
+				   },
+				    error: function (jqXhr, textStatus, errorMessage) { // error callback 
+				        console.log('Error: ' + errorMessage + ' textStatus：  ' + textStatus);
+				    }
+				})
+
+		});
+
+
+
+		 $('#ajaxBtn2').click(function(){
+			
+				 $.ajax({
+				    type: 'GET',
+				 
+				    dataType: "json",  // from the server   
+				    contentType: "application/json; charset=utf-8", // to the server
+				    url: "http://127.0.0.1:8090/logout",
+					xhrFields: {
+					withCredentials: true
+					},
+
+				   success: function(data){
+				          console.log(data);
+				   },
+				    error: function (jqXhr, textStatus, errorMessage) { // error callback 
+				        console.log('Error: ' + errorMessage + ' textStatus：  ' + textStatus);
+				    }
+				})
+
+		});
+
+    });
+    </script>
+</html>
+
