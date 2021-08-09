@@ -68,7 +68,7 @@ window.onload=init;
 var tileSource = new ol.source.OSM();
 var baseLayerGroup ;
 function init(){
-
+ 
   console.log("bbb----444---bbbbb");
   var lat = GisHlpSingleton().getQueryVariable("lat");
   var lon = GisHlpSingleton().getQueryVariable("lon");
@@ -221,16 +221,6 @@ function init(){
           var geotype = feature.getGeometry().getType();
           if (geotype == 'Point' && feature )
           {
-
-             let devid=feature.get('device-id');
-              console.log(devid);
-              let myEvent = new CustomEvent("mapPointClick", {
-              detail: { name: devid }
-              });
-
-              window.dispatchEvent(myEvent);
-
-
              flash(feature)
           }  
 
