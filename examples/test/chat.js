@@ -1,9 +1,8 @@
 
 
 
+function updateChat(arr1,arr2){
 
-function updateChat(name){
-	console.log("222131")
 
 var dom = document.getElementById("container");
 
@@ -12,8 +11,6 @@ var app = {};
 
 var option;
 
- 
-$.get( '/api/getwater_d/'+name, function (data) {
     myChart.setOption(option = {
         title: {
             text: '水位',
@@ -29,9 +26,7 @@ $.get( '/api/getwater_d/'+name, function (data) {
         },
         xAxis: {
 
-            data: data.map(function (item) {
-                return item[0];
-            })
+            data: arr1
         },
         yAxis: {
                
@@ -86,9 +81,7 @@ $.get( '/api/getwater_d/'+name, function (data) {
         series: {
             name: '水位',
             type: 'line',
-            data: data.map(function (item) {
-                return item[1];
-            }),
+            data: arr2,
             markLine: {
                 silent: true,
                 lineStyle: {
@@ -108,11 +101,22 @@ $.get( '/api/getwater_d/'+name, function (data) {
             }
         }
     });
+
+
+    if (option && typeof option === 'object') {
+        myChart.setOption(option);
+    }
+
+}
+
+
+function getApiData(name){
+	console.log("222131")
+$.get( '/api/getwater_d/'+name, function (data) {
+   updateChat(data.map(function (item) {return item[0];}),data.map(function (item) {return item[1];}))
+
 });
 
-if (option && typeof option === 'object') {
-    myChart.setOption(option);
-}
 
 
 }
@@ -124,7 +128,7 @@ if (option && typeof option === 'object') {
 
 	console.log(iframeWindow) 
 	iframeWindow.addEventListener("mapPointClick", e => {
-		updateChat(e.detail.name);
+		getApiData(e.detail.name);
 	});
 
  };
