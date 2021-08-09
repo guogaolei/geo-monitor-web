@@ -3,7 +3,7 @@
 
 
 function updateChat(name){
-	console.log("222")
+	console.log("222131")
 
 var dom = document.getElementById("container");
 
