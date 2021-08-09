@@ -13,7 +13,7 @@ var app = {};
 var option;
 
  
-$.get( 'http://localhost:8090/getwater_d/'+name, function (data) {
+$.get( 'http://localhost/api/getwater_d/'+name, function (data) {
     myChart.setOption(option = {
         title: {
             text: '水位',
