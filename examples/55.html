@@ -5,7 +5,7 @@
 <style type="text/css"> 
       #map {
         width: 100vw;
-        height: 88vh;
+        height: 100vh;
       }
 
 </style>
@@ -40,8 +40,7 @@
      <script src="../src/layui.js"></script>
      <script type="text/javascript">
        
- 
-
+  
           layui.use(['form', 'layedit', 'laydate'], function(){
          
             var form = layui.form 
@@ -51,6 +50,9 @@
             
             form.on('switch', function(data){
               switchMap(this.checked);
+
+
+ 
             }); 
         
             

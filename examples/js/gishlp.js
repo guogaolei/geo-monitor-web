@@ -2,6 +2,11 @@ class GisHlp {
   
   constructor( ) {
 
+
+  window.addEventListener("pingan", e => {
+   //  alert(`pingan事件在gishlp.js触发，是 ${e.detail.name} 触发。`);
+  });
+
     this.duration = 3000;
 
     this.strokestyle =  new ol.style.Stroke({
@@ -133,7 +138,7 @@ class GisHlp {
  
     flashAnimate(event,feature, _map,start,listenerKey) {
 
-      console.log('flash')
+      
       var vectorContext = ol.render.getVectorContext(event);
       var frameState = event.frameState;
       var flashGeom = feature.getGeometry().clone();
