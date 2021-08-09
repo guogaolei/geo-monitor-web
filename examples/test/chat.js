@@ -13,7 +13,7 @@ var app = {};
 var option;
 
  
-$.get( 'http://39.105.56.163/api/getwater_d/'+name, function (data) {
+$.get( '/api/getwater_d/'+name, function (data) {
     myChart.setOption(option = {
         title: {
             text: '水位',
