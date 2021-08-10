@@ -108,11 +108,16 @@ var option;
     }
 
 }
+    console.log("222131")
 
+  // GET    /api/water_level/:name             水位
+  // GET    /api/water_ph/:name                PH
+  // GET    /api/water_FluorideIon/:name       氟离子
+  // GET    /api/water_DissolvedSolids/:name   总溶解固体
+  // GET    /api/water_salinity/:name    矿化度
+  // GET    /api/water_node              获取所有节点信息
 
-function getApiData(name){
-	console.log("222131")
-$.get( '/api/getwater_d/'+name, function (data) {
+$.get( '/api/water_level/'+name, function (data) {
    updateChat(data.map(function (item) {return item[0];}),data.map(function (item) {return item[1];}))
 
 });
