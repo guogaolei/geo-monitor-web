@@ -5,18 +5,20 @@
 <style type="text/css"> 
       #map {
         width: 100vw;
-        height: 88vh;
+        height: 100vh;
       }
 
 </style>
 
     <link rel="stylesheet" href="ol/ol.css" type="text/css">
-     <link rel="stylesheet" href="../src/css/layui.css">
-      <script src="ol/ol.js"></script>
+    <link rel="stylesheet" href="../src/css/layui.css">
+    <script src="ol/ol.js"></script>
     <link rel="stylesheet" href="css/styles.css" type="text/css">
+
 <!-- 1    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script> -->
 <!--     http://geojson.io2/ -->
-    <title>OpenLayers example</title>
+    <title>环保云平台</title>
+
   </head>
   <body>
     <div id="map" class="map2"></div>
@@ -31,13 +33,14 @@
     </div>
 
 
-     <script src="js/main.js"></script>
-     
+     <script src="js/jquery-3.3.1.min.js"></script>     
+     <script src="js/jszip.min.js"></script>
+    <script type="text/javascript" src="js/gishlp.js"></script>  
+    <script type="text/javascript" src="js/main.js"></script>  
      <script src="../src/layui.js"></script>
      <script type="text/javascript">
        
- 
-
+  
           layui.use(['form', 'layedit', 'laydate'], function(){
          
             var form = layui.form 
@@ -47,6 +50,9 @@
             
             form.on('switch', function(data){
               switchMap(this.checked);
+
+
+ 
             }); 
         
             

@@ -1,0 +1,1130 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8656, 39.1530000004, 0]
+		},
+		"properties": {
+			"name": "D01",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D01</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田南边界</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8656</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.153</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.453333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>160.016667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>27.77544</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>35.693361</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.11</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>225.135468</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>78.37995</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>142.6491</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>375.591931</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>3.9576</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.777333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>601.355915</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>216.344535</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>216.344535</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>98.29572</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>314.640255</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>108.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.57</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>638.695417</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.085415</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>405.4</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>768.693376</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8863, 39.1428899996, 0]
+		},
+		"properties": {
+			"name": "D02",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>1</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D02</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田南边界</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>承压水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8863</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.14289</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.906667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>146.623333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>4.62924</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>2.406294</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>155.345534</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>59.077425</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>104.60934</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>159.751987</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>21.2232</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.054667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.701333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>345.417952</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>21.469305</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>21.469305</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>144.953674</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>166.422979</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>75</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>9.38</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>420.887493</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>466.9</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>479.50773</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.9039, 39.1605500003, 0]
+		},
+		"properties": {
+			"name": "D03",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>2</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D03</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田南边界</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.9039</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.16055</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>3.48</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>49.37</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>44.30844</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>27.672381</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.173333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>1.886667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>126.890821</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>21.0573</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>28.52982</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>336.817382</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.132</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.696</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>396.224682</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>224.60196</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>224.60196</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>51.635764</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>276.237724</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>72.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.076667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>354.706812</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.134593</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>363.9</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>373.641181</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.94, 39.1782999997, 0]
+		},
+		"properties": {
+			"name": "D04",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>3</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D04</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田南边界</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.94</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.1783</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.853333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>36.696667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>95.8914</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>20.453499</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>154.101566</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>28.0764</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>74.49453</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>323.22172</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>32.577837</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.004333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.338667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>458.713486</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>323.69106</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>265.087364</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>58.603696</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>265.087364</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>56.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.77</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>451.204192</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>260.4</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>484.149129</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8734, 39.2013200003, 0]
+		},
+		"properties": {
+			"name": "D05",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>4</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D05</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>养鱼池旁</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8734</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.20132</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>4.346667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>415.22</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>406.7118</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>102.468019</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>9.516667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>938.30982</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>730.571325</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>1157.835195</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>224.995385</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>12.316069</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.517333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>2126.236307</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>1437.617692</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>184.527926</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>1253.089767</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>184.527926</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>100</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.58</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>2952.048434</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>5469.8</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>4135.469806</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.87577, 39.1952629998, 0]
+		},
+		"properties": {
+			"name": "D08",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D08</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>5</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D08</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D08</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>养鱼池下游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.87577</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.195263</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>5.656667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>524.443333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>1038.2724</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>272.71332</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>4.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>1845.912387</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>1593.3357</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>2476.546875</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>175.052956</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.272667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>4247.700586</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>3715.84125</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>143.568095</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>3572.273155</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>143.568095</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>143</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.296667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>6006.086495</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>5783.2</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>6356.324835</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8735, 39.2013500003, 0]
+		},
+		"properties": {
+			"name": "D11",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D11</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>6</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D11</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D11</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>养鱼池旁</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>承压水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8735</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.20135</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.493333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>50.873333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>24.46884</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>12.432519</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>2.373333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>92.374692</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>31.58595</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>47.5497</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>133.528846</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>9.6524</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.526667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.691333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>228.969454</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>112.30098</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>110.348558</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>1.952422</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>15.265727</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>125.614285</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>109.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.586667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>254.579723</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>1.842893</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>830.8</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>295.640852</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.87347, 39.2055779997, 0]
+		},
+		"properties": {
+			"name": "D5-2",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>D5-2</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>7</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>D5-2</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>D5-2</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>养鱼池上游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.87347</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.205578</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.776667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>41.546667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>41.66316</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>10.828323</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.286667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0.44</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>96.541483</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>10.52865</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>30.11481</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>222.798665</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>20.565147</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.453333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.404</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>284.864605</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>148.63365</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>148.63365</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>34.092656</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>182.726306</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>203.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.76</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>270.006756</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.222597</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>414.2</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>279.756241</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8195, 39.1906599998, 0]
+		},
+		"properties": {
+			"name": "DB01",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>DB01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>8</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>DB01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>DB1</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田外札萨克河上游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8195</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.19066</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.723333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>52.926667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>66.132</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>19.250352</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.096667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>139.169019</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>17.54775</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>61.81461</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>338.952676</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.045333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.778667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>419.139036</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>244.41978</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>244.41978</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>33.569185</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>277.988965</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>210</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.16</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>388.831716</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.075062</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>645.7</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>405.841189</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8784, 39.1334799997, 0]
+		},
+		"properties": {
+			"name": "DB02",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>DB02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>9</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>DB02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>DB2</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田外札萨克河下游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8784</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.13348</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>2.103333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>86.476667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>40.34052</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>22.458744</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.166667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>151.545931</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>46.794</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>80.83449</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>293.157979</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>5.8156</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.652</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>427.254069</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>193.223745</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>193.223745</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>56.908505</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>250.13225</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>316.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>10.333333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.5</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>432.22101</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.129417</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>466.9</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>470.611467</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.9149, 39.1602800001, 0]
+		},
+		"properties": {
+			"name": "DB03",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>DB03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>10</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>DB03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>DB3</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田外木独石犁河上游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.9149</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.16028</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>3.866667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>390.92</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>97.87536</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>26.669759</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.21</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>519.558452</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>330.482625</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>613.39113</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>198.157975</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>1.066</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>1143.10773</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>354.243533</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>159.232514</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>195.011019</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>3.284954</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>162.517468</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>253.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.156667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>1563.587194</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.163065</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>239.3</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>2195.467197</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8792, 39.22915, 0]
+		},
+		"properties": {
+			"name": "DB04",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>DB04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>11</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>DB04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>DB4</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>井田外木独石犁河下游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8792</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.22915</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.443333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>23.42</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>47.094</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>14.494478</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>86.521811</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>11.113575</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>12.71194</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>244.259806</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.009</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.464667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>268.558987</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>177.292753</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>177.292753</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>23.034713</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>200.327466</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>233.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.163333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>232.950896</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>6671.6</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>243.010894</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.901, 39.1244200002, 0]
+		},
+		"properties": {
+			"name": "DB05",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>DB05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>12</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>DB05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>DB5</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>红碱淖地表</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.901</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.12442</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>25.65</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>1265</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>18.6372</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>53.440792</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.166667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>1362.894659</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>1034.732325</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>496.43808</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>737.740343</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>340.3852</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>2.724</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>2613.219889</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>266.606397</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>266.606397</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>906.263904</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>1172.870301</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>476.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>9.106667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>3607.244376</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.129417</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>4503.1</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>6122.198389</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8872231, 39.1847188996, 0]
+		},
+		"properties": {
+			"name": "H01",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>H01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>13</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>H01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>H01</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.887223</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.184719</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.49</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>58.416667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>54.40192</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>33.801544</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>147.290131</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>115.230225</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>135.14041</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>135.971273</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.636</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>386.977908</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>275.04732</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>111.515607</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>163.531713</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>111.515607</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>156.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.013333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>466.282402</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>477.704723</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.892355, 39.1892049999, 0]
+		},
+		"properties": {
+			"name": "H02",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>H02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>14</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>H02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>H02</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.892355</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.189205</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.266667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>41.97</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>15.25712</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>20.514264</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.15</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>78.158051</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>22.812075</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>39.78485</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>140.057579</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>15.468</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.838</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>218.960504</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>122.576887</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>122.576887</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>18.093269</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>140.670156</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>356.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>40.333333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.86</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>227.089765</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.116475</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>234.257149</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8716667, 39.1950000001, 0]
+		},
+		"properties": {
+			"name": "HL01",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>HL01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>15</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>HL01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>HL1</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.871667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.195</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>3.393333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>665.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>380.17884</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>128.78129</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>1178.053463</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>928.8609</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>1436.06498</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>216.822773</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.007667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.541333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>2582.297653</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>1479.713878</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>177.825232</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>1301.888646</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>177.825232</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>232</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.96</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>3651.93973</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>3662.219721</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8917, 39.1875000002, 0]
+		},
+		"properties": {
+			"name": "HP01",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>HP01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>16</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>HP01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>HP1</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8917</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.1875</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.63</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>33.31</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>40.47412</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>23.746962</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>98.284415</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>15.20805</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>41.36984</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>248.038978</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.754</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>308.483592</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>198.862148</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>198.826116</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0.036032</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>4.600804</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>203.42692</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>161.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.106667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>282.748519</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>300.964862</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.873678231, 39.1921853039, 0]
+		},
+		"properties": {
+			"name": "N01",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>17</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N01</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.873678</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.192185</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>2.41</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>75.436667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>122.73832</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>49.102171</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>249.793824</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>184.8363</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>238.56501</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>214.87176</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.732</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>639.00607</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>508.707425</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>176.225127</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>332.482298</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>176.225127</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>113.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.96</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>781.364014</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>790.534148</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.869541723, 39.1876197992, 0]
+		},
+		"properties": {
+			"name": "N02",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>18</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N02</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.869542</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.18762</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.753333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>42.863333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>56.38588</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>23.341862</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>124.451075</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>31.58595</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>124.0775</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>195.238778</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.019</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.534667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>351.455895</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>236.929712</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>160.123315</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>76.806397</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>160.123315</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>147</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.153333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>378.287581</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>387.298183</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.866510823, 39.1843909615, 0]
+		},
+		"properties": {
+			"name": "N03",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>19</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N03</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.866511</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.184391</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.016667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>24.353333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>57.03384</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>17.309923</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>99.80043</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>19.302525</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>78.00072</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>203.22711</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.438</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>300.970355</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>213.708832</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>166.674872</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>47.033959</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>166.674872</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>161</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.126667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>299.15723</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>308.309919</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.868554285, 39.1955922929, 0]
+		},
+		"properties": {
+			"name": "N04",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>20</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N04</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.868554</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.195592</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.593333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>29.526667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>45.1568</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>19.716217</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>96.133017</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>23.397</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>77.92067</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>164.929331</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>5.9364</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.481333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>272.664734</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>193.957738</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>145.168201</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>48.789538</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>145.168201</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>216.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.35</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>286.333086</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>306.42028</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.880909639, 39.1839534475, 0]
+		},
+		"properties": {
+			"name": "N05",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>21</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N05</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88091</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.183953</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>2.63</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>44.283333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>115.35692</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>32.197348</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.093333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>194.560935</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>174.015187</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>165.28724</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>130.717858</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.030667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.236</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>470.286952</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>420.661588</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>107.207066</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>313.454522</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>107.207066</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>188</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>63.333333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>5.263333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>599.488958</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.072473</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>1176.642599</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.881310691, 39.1856969592, 0]
+		},
+		"properties": {
+			"name": "N06",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N06</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>22</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N06</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N06</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.881311</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.185697</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.353333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>98.426667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>252.59752</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>70.495502</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>422.966355</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>425.240475</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>441.7159</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>106.091813</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.456667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>973.504854</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>921.094907</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>87.010239</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>834.084668</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>87.010239</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>284.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.85</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>1343.425303</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>2127.500489</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88525487, 39.1783233294, 0]
+		},
+		"properties": {
+			"name": "N07",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N07</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>23</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N07</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N07</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.885255</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.178323</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.126667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>46.773333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>48.42332</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>24.54906</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>120.95238</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>19.88745</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>50.9118</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>297.674273</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.803333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>369.279189</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>222.016302</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>222.016302</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>22.118555</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>244.134857</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>123.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.153333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>341.394433</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>347.928693</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.895589305, 39.1792558317, 0]
+		},
+		"properties": {
+			"name": "N08",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N08</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>24</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N08</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N08</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.895589</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.179256</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.453333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>132.19</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>37.8088</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>44.265277</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.12</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>215.83741</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>116.985</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>167.01632</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>278.164145</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>1.9184</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.59</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>564.676198</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>276.698805</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>231.334013</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>45.364792</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>231.334013</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>197.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.43</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>641.431536</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.09318</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>656.561072</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.892591349, 39.1790843899, 0]
+		},
+		"properties": {
+			"name": "N09",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N09</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>25</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N09</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N09</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.892591</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.179084</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.16</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>45.853333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>55.06992</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>29.373801</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>131.530388</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>33.92565</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>62.03875</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>299.625286</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.629333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>396.222352</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>258.482425</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>245.734963</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>12.747462</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>245.734963</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>263.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.216667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>377.940097</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>385.610458</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.889774923, 39.1930654326, 0]
+		},
+		"properties": {
+			"name": "N10",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N10</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>26</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N10</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N10</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.889775</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.193065</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.736667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>58.68</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>264.72172</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>60.376104</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>385.554491</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>446.297775</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>270.37688</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>157.739548</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.464</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>874.878203</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>909.701328</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>129.36866</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>780.332668</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>129.36866</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>220.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.876667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>1181.562919</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>1185.913068</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.886783331, 39.1943952483, 0]
+		},
+		"properties": {
+			"name": "N11",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N11</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>27</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N11</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N11</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.886783</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.194395</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>4.686667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>71.663333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>124.9494</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>40.295297</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>241.831364</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>232.80015</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>175.21344</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>172.195186</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.436667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>580.656109</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>477.963113</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>141.224321</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>336.738792</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>141.224321</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>213.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.903333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>736.38988</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>949.484392</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.875800845, 39.1907580436, 0]
+		},
+		"properties": {
+			"name": "N12",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N12</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>28</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N12</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N12</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.875801</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.190758</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.723333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>21.91</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>17.91576</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>26.145154</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>66.934247</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>16.962825</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>50.86377</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>120.547451</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>13.4288</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.732</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>202.535846</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>152.403707</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>121.267376</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>31.136331</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>121.267376</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>126</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.76</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>209.196368</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>237.212825</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.894722151, 39.1844024129, 0]
+		},
+		"properties": {
+			"name": "N13",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N13</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>29</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N13</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N13</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.894722</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.184402</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.843333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>73.833333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>59.71252</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>30.986099</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>165.461952</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>89.493525</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>133.58744</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>222.798665</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.025333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.715333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>446.620296</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>276.715487</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>182.726306</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>93.989181</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>182.726306</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>169</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.25</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>500.682916</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>501.217177</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.874927544, 39.1844293495, 0]
+		},
+		"properties": {
+			"name": "N14",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N14</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>30</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N14</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N14</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.874928</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.184429</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.3</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>44.23</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>45.61271</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>27.661241</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>118.883951</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>30.708562</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>89.443867</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>232.676582</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.783333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>353.620346</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>227.813181</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>190.82759</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>36.98559</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>190.82759</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>123</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.213333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>356.166005</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>375.467842</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.871010868, 39.2022408148, 0]
+		},
+		"properties": {
+			"name": "N16",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N16</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>31</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N16</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N15</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.871011</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.202241</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.316667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>34.476667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>19.9064</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>10.459682</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>66.199415</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>13.453275</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>66.80973</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>72.740315</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>13.61</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.009667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.522</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>167.144986</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>92.78343</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>82.361058</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>10.422372</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>82.361058</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>175</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.863333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>196.974244</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>202.740841</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.862230138, 39.1875875614, 0]
+		},
+		"properties": {
+			"name": "N17",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N17</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>32</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N17</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N16</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.86223</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.187588</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.326667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>20.953333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>28.53028</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>14.883374</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>65.773654</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>14.623125</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>34.98185</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>153.776095</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.497333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>203.88007</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>132.535842</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>126.118071</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>6.417771</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>126.118071</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>332.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.266667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>192.765677</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>205.924973</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.877483785, 39.1845883532, 0]
+		},
+		"properties": {
+			"name": "N18",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N18</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>33</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N18</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N17</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.877484</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.184588</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.186667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>40.506667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>13.26648</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>19.315168</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>73.354981</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>55.567875</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>17.49893</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>86.765965</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>21.2836</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.598667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>181.715037</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>112.667977</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>106.664912</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>6.003065</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>106.664912</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>186</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.98</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>211.687036</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>216.531825</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.87518, 39.18695, 0]
+		},
+		"properties": {
+			"name": "N19",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N19</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>34</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N19</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N19</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.87518</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.18695</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.94</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>39.976667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>16.58644</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>29.787003</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0.12</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>88.41011</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>18.132675</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>31.79586</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>193.164912</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>19.184</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.768</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>263.067114</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>164.080873</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>164.080873</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>26.343688</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>190.424561</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>318.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.78</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>254.894767</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0.09318</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>272.005887</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8789, 39.1937, 0]
+		},
+		"properties": {
+			"name": "N20",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>N20</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>35</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>N20</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>N20</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.8789</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.1937</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>2.38</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>596.36</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>845.9218</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>181.910155</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>1626.651955</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>1444.76475</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>1915.556475</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>177.372529</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.307333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>3538.001088</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>2861.5731</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>145.470472</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>2716.102628</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>145.470472</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>306.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.763333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>5075.966778</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>5156.641626</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88218, 39.204084, 0]
+		},
+		"properties": {
+			"name": "W01",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>36</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W01</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>场区北部</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88218</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.204084</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.76</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>44.52</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>37.69524</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>13.635666</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>96.610906</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>10.52865</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>25.35984</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>240.480634</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>14.068172</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.006667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.570667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>291.014629</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>150.285135</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>150.285135</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>46.942877</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>197.228012</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>79</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.12</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>267.385218</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>306.3</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>276.314048</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88667, 39.2005209998, 0]
+		},
+		"properties": {
+			"name": "W02",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>37</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W02</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>老生活污水处理池</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.200521</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.593333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>42.753333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>117.05364</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>39.703851</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>201.104158</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>129.85335</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>76.07952</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>289.685941</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>54.519699</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.009</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.676</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>550.82351</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>455.80986</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>237.583299</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>218.226561</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>237.583299</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>70.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.823333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>607.084697</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>1032</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>622.699616</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88903, 39.1992709998, 0]
+		},
+		"properties": {
+			"name": "W03",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>38</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W03</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>新生活污水处理池</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88903</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.199271</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.533333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>65.096667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>66.132</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>32.484969</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>165.246969</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>81.304575</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>91.92942</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>277.918438</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>7.136491</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.650667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>459.042924</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>298.918785</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>227.932288</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>70.986497</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>227.932288</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>71.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.893333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>485.330674</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>456.8</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>521.853644</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88478, 39.1969609997, 0]
+		},
+		"properties": {
+			"name": "W04",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>39</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W04</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>浓缩池下游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88478</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.196961</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>5.023333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>483.926667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>483.42492</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>186.487785</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>9.433333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>1170.976038</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>853.698038</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>1586.57499</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>275.060668</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.846667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.559333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>2723.061371</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>1975.17606</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>225.588514</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>1749.587546</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>225.588514</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>210.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.62</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>3756.507076</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>4941</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>4351.896711</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.89203, 39.1985479999, 0]
+		},
+		"properties": {
+			"name": "W05",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>40</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W05</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W05</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>场区东南角沟渠处</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.89203</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.198548</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>2.716667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>137.396667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>94.56876</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>28.07343</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>262.81219</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>126.3438</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>288.46818</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>218.528078</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>4.947912</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.036</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.591333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>638.915304</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>351.766305</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>179.223823</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>172.542482</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>179.223823</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>108.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.183333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>792.463455</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>501</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>978.867542</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88768, 39.1974489999, 0]
+		},
+		"properties": {
+			"name": "W06",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W06</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>41</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W06</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W06</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>场区南</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88768</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.197449</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>4.28</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>897.803333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>414.31698</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>66.574134</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>18.833333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>1402.041114</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>988.815713</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>1727.6391</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>269.868679</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.148</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.371333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>2993.90052</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>1308.801862</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>221.330352</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>1087.471511</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>221.330352</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>113.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.713333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>4261.007295</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>3633.9</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>4760.934327</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88453, 39.1962150001, 0]
+		},
+		"properties": {
+			"name": "W07",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W07</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>42</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W07</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W07</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>厂区西南角外</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88453</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.196215</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>3.556667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>428.546667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>302.88456</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>113.697391</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>848.741952</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>625.86975</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>1004.88366</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>287.304941</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>32.028921</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.873333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>1951.019939</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>1224.576127</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>235.630543</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>988.945584</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>235.630543</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>133.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.726667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>2656.10942</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>1551.1</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>3148.139371</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88567, 39.187127, 0]
+		},
+		"properties": {
+			"name": "W08",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W08</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>43</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W08</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W08</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>蒸发池下游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88567</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.187127</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>2.926667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>323.196667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>237.08322</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>86.626584</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>4.683333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>654.603137</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>508.007362</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>744.152805</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>155.11284</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.439333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>1416.686208</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>948.778132</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>127.21439</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>821.563742</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>127.21439</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>140</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.746667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>1993.732926</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>4674.4</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>2485.367467</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.88753, 39.1879420003, 0]
+		},
+		"properties": {
+			"name": "W09",
+			"styleUrl": "#IconStyle04",
+			"styleHash": "-54b0a95a",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>W09</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>44</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>W09</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>W09</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>蒸发池下游</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.88753</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.187942</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>2.246667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>99.873333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>252.9549</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>77.803506</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>1.566667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>434.485073</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>337.794188</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>474.704505</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>204.318148</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.416</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>1027.624064</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>952.081103</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>167.569677</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>784.511425</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>167.569677</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>82.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.64</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>1359.950063</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>2047.3</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>1857.016943</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.887775, 39.1837649998, 0]
+		},
+		"properties": {
+			"name": "Z03",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>Z03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>45</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>Z03</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>Z03</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.887775</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.183765</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.526667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>47.39</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>47.78872</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>26.177562</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>121.922949</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>89.493525</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>82.7717</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>145.972044</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>3.8368</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.69</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>322.765736</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>227.137573</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>125.905213</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>101.232361</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0.212858</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>126.118071</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>172.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.423333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>371.702662</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>452.798549</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8900719, 39.1820111002, 0]
+		},
+		"properties": {
+			"name": "Z04",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>Z04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>46</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>Z04</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>Z04</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>鱼塘</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>地表水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.890072</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.182011</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.346667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>43.343333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>41.79676</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>25.748156</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>112.271583</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>16.962825</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>57.23575</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>264.384202</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.036</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.546</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>340.024154</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>210.405862</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>205.04771</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>5.358151</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>11.784597</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>216.832307</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>160</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>8.306667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>320.103636</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>335.936517</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8870167, 39.1850806004, 0]
+		},
+		"properties": {
+			"name": "ZW01",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>ZW01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>47</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>ZW01</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>ZW1</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>民井</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.887017</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.185081</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>0.583333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>49.103333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>95.58412</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>29.385954</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>174.733407</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>64.926675</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>98.60559</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>330.964344</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0.02</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.584</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>500.588288</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>359.706778</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>271.437407</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>88.269371</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>271.437407</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>105.333333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.833333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>509.839523</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>555.872389</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.8657269, 39.1948668998, 0]
+		},
+		"properties": {
+			"name": "ZW02",
+			"styleUrl": "#IconStyle00",
+			"styleHash": "-2ba76598",
+			"description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\r\n<head>\r\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\r\n</head>\r\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\r\n<td>ZW02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>\r\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\r\n<tr>\r\r\n<td>FID</td>\r\r\n<td>48</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>监测项目</td>\r\r\n<td>ZW02</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>编号</td>\r\r\n<td>ZW2</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>与项目区相</td>\r\r\n<td>民井</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>水样类型</td>\r\r\n<td>潜水</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>经度</td>\r\r\n<td>109.865727</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>纬度</td>\r\r\n<td>39.194867</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钾离子</td>\r\r\n<td>1.173333</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>钠离子</td>\r\r\n<td>47.896667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>钙离子</td>\r\r\n<td>36.48616</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>镁离子</td>\r\r\n<td>11.679033</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铵根离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>三价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>二价铁离子</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBC</td>\r\r\n<td>97.268526</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氯离子</td>\r\r\n<td>21.0573</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>硫酸根</td>\r\r\n<td>41.35383</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>碳酸氢根</td>\r\r\n<td>208.650161</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>碳酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>硝酸根</td>\r\r\n<td>4.853475</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>亚硝酸根</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>氟离子</td>\r\r\n<td>0.462667</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>ΣBA</td>\r\r\n<td>276.544099</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总硬度</td>\r\r\n<td>139.208508</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>暂时硬度</td>\r\r\n<td>139.208508</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>永久硬度</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>负硬度</td>\r\r\n<td>31.91403</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总碱度</td>\r\r\n<td>171.122538</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>锰</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>铅</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>细菌总数</td>\r\r\n<td>93.666667</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>总大肠杆菌</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>pH</td>\r\r\n<td>7.933333</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>溶解性总固</td>\r\r\n<td>269.487545</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>氨氮</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr bgcolor=\"#D4E4F3\">\r\r\n<td>F01</td>\r\r\n<td>0</td>\r\r\n</tr>\r\r\n<tr>\r\r\n<td>F02</td>\r\r\n<td>282.440124</td>\r\r\n</tr>\r\r\n</table>\r\r\n</td>\r\r\n</tr>\r\r\n</table>\r\r\n</body>\r\r\n</html>\r\r\n"
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43372297286986, 29.507875330650048]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43245697021484, 29.50843555973904]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43101930618286, 29.50860362786118]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.4301609992981, 29.50826749133788]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "拆迁区"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43365859985352, 29.51057373893137],
+					[106.43301486968994, 29.510629760486466],
+					[106.43269300460815, 29.510480369603975],
+					[106.43261790275574, 29.510032195633702],
+					[106.43276810646057, 29.50899578572776],
+					[106.43310070037842, 29.50803406254002],
+					[106.43346548080444, 29.506876247747257],
+					[106.43377661705017, 29.506129263434563],
+					[106.43428087234497, 29.505951853850405],
+					[106.43506407737732, 29.50611992609579],
+					[106.43613696098328, 29.506269323413],
+					[106.43604040145873, 29.507044318458064],
+					[106.43583655357361, 29.507875330650048],
+					[106.43584728240967, 29.508426222612957],
+					[106.43564343452454, 29.508939763268394],
+					[106.43462419509888, 29.50899578572776],
+					[106.43435597419739, 29.50918252703503],
+					[106.43429160118103, 29.510013521675237],
+					[106.43444180488586, 29.51025628286687],
+					[106.43365859985352, 29.51057373893137]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "重庆西站"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43091201782227, 29.505634383292318],
+					[106.43091201782227, 29.505148838160352],
+					[106.4307188987732, 29.50423376600547],
+					[106.4301609992981, 29.50425244103008],
+					[106.42917394638062, 29.503878939883588],
+					[106.4289379119873, 29.503057232511598],
+					[106.42945289611815, 29.50236624615108],
+					[106.43013954162596, 29.502011413484944],
+					[106.43059015274048, 29.500461340416535],
+					[106.43121242523193, 29.50031193452974],
+					[106.4327573776245, 29.500218555738567],
+					[106.43333673477173, 29.500442664692738],
+					[106.43350839614868, 29.50102161052878],
+					[106.4336371421814, 29.501974062605647],
+					[106.4336371421814, 29.50298253151077],
+					[106.43376588821411, 29.5035801379744],
+					[106.43406629562377, 29.504887389817135],
+					[106.43370151519775, 29.50548498503817],
+					[106.43179178237915, 29.5057090823367],
+					[106.43091201782227, 29.505634383292318]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "高架桥部门"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43249988555908, 29.49930343902849],
+					[106.4320921897888, 29.49739847568087],
+					[106.43280029296875, 29.496408627638516],
+					[106.43468856811522, 29.49605377409789],
+					[106.43619060516357, 29.496744803530166],
+					[106.43687725067139, 29.498406990151867],
+					[106.43612623214722, 29.499714308778362],
+					[106.43385171890259, 29.50023723150369],
+					[106.43277883529663, 29.499845039712834],
+					[106.43249988555908, 29.49930343902849]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "温度采集点"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.42962455749512, 29.49739847568087]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "厂矿企业"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.44649028778076, 29.504644615751076],
+					[106.44466638565063, 29.504719315525712],
+					[106.44325017929076, 29.504551240955287],
+					[106.443293094635, 29.50372953903922],
+					[106.44380807876587, 29.502478298313637],
+					[106.4439582824707, 29.501880685347146],
+					[106.4455461502075, 29.501936711712588],
+					[106.4459753036499, 29.50225419386453],
+					[106.44649028778076, 29.504644615751076]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "林业部门"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43758535385132, 29.48869495207576],
+					[106.437349319458, 29.48776105319068],
+					[106.43955945968628, 29.486173405330582],
+					[106.43977403640747, 29.486864502162526],
+					[106.44065380096434, 29.488489495059625],
+					[106.443293094635, 29.49030123802156],
+					[106.44370079040527, 29.49144056493996],
+					[106.44290685653687, 29.492411784327192],
+					[106.44056797027588, 29.492000884953583],
+					[106.43882989883423, 29.491608661269474],
+					[106.43758535385132, 29.48869495207576]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "PM2.5传感器"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.4394736289978, 29.489442064985887]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "噪音采集站"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43438816070555, 29.497940086552607]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "土地湿度传感器"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.44455909729002, 29.503262659979747]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "空气质量采集站"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.4316201210022, 29.502702402266806]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43372297286986, 29.507875330650048]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43245697021484, 29.50843555973904]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43101930618286, 29.50860362786118]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "采集点1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.4301609992981, 29.50826749133788]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "拆迁区"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43365859985352, 29.51057373893137],
+					[106.43301486968994, 29.510629760486466],
+					[106.43269300460815, 29.510480369603975],
+					[106.43261790275574, 29.510032195633702],
+					[106.43276810646057, 29.50899578572776],
+					[106.43310070037842, 29.50803406254002],
+					[106.43346548080444, 29.506876247747257],
+					[106.43377661705017, 29.506129263434563],
+					[106.43428087234497, 29.505951853850405],
+					[106.43506407737732, 29.50611992609579],
+					[106.43613696098328, 29.506269323413],
+					[106.43604040145873, 29.507044318458064],
+					[106.43583655357361, 29.507875330650048],
+					[106.43584728240967, 29.508426222612957],
+					[106.43564343452454, 29.508939763268394],
+					[106.43462419509888, 29.50899578572776],
+					[106.43435597419739, 29.50918252703503],
+					[106.43429160118103, 29.510013521675237],
+					[106.43444180488586, 29.51025628286687],
+					[106.43365859985352, 29.51057373893137]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "重庆西站"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43091201782227, 29.505634383292318],
+					[106.43091201782227, 29.505148838160352],
+					[106.4307188987732, 29.50423376600547],
+					[106.4301609992981, 29.50425244103008],
+					[106.42917394638062, 29.503878939883588],
+					[106.4289379119873, 29.503057232511598],
+					[106.42945289611815, 29.50236624615108],
+					[106.43013954162596, 29.502011413484944],
+					[106.43059015274048, 29.500461340416535],
+					[106.43121242523193, 29.50031193452974],
+					[106.4327573776245, 29.500218555738567],
+					[106.43333673477173, 29.500442664692738],
+					[106.43350839614868, 29.50102161052878],
+					[106.4336371421814, 29.501974062605647],
+					[106.4336371421814, 29.50298253151077],
+					[106.43376588821411, 29.5035801379744],
+					[106.43406629562377, 29.504887389817135],
+					[106.43370151519775, 29.50548498503817],
+					[106.43179178237915, 29.5057090823367],
+					[106.43091201782227, 29.505634383292318]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "高架桥部门"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43249988555908, 29.49930343902849],
+					[106.4320921897888, 29.49739847568087],
+					[106.43280029296875, 29.496408627638516],
+					[106.43468856811522, 29.49605377409789],
+					[106.43619060516357, 29.496744803530166],
+					[106.43687725067139, 29.498406990151867],
+					[106.43612623214722, 29.499714308778362],
+					[106.43385171890259, 29.50023723150369],
+					[106.43277883529663, 29.499845039712834],
+					[106.43249988555908, 29.49930343902849]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "温度采集点"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.42962455749512, 29.49739847568087]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "厂矿企业"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.44649028778076, 29.504644615751076],
+					[106.44466638565063, 29.504719315525712],
+					[106.44325017929076, 29.504551240955287],
+					[106.443293094635, 29.50372953903922],
+					[106.44380807876587, 29.502478298313637],
+					[106.4439582824707, 29.501880685347146],
+					[106.4455461502075, 29.501936711712588],
+					[106.4459753036499, 29.50225419386453],
+					[106.44649028778076, 29.504644615751076]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"stroke": "#555555",
+			"stroke-width": 2,
+			"stroke-opacity": 1,
+			"fill": "#555555",
+			"fill-opacity": 0.5,
+			"name": "林业部门"
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[106.43758535385132, 29.48869495207576],
+					[106.437349319458, 29.48776105319068],
+					[106.43955945968628, 29.486173405330582],
+					[106.43977403640747, 29.486864502162526],
+					[106.44065380096434, 29.488489495059625],
+					[106.443293094635, 29.49030123802156],
+					[106.44370079040527, 29.49144056493996],
+					[106.44290685653687, 29.492411784327192],
+					[106.44056797027588, 29.492000884953583],
+					[106.43882989883423, 29.491608661269474],
+					[106.43758535385132, 29.48869495207576]
+				]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "PM2.5传感器"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.4394736289978, 29.489442064985887]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "噪音采集站"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.43438816070555, 29.497940086552607]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "土地湿度传感器"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.44455909729002, 29.503262659979747]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "空气质量采集站"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.4316201210022, 29.502702402266806]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"name": "xxxyyyzzz"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.44078254699707, 29.49695024380356]
+		}
+	}]
+}
